@@ -9,6 +9,7 @@ This script is a tool for checking the prices of items in Warframe. It uses the 
 
 1. Add the items you want to check, one per line, to shopping_list.txt.
 - If an item has different ranks, you can specify the rank by adding the rank number at the end of the item name (e.g., "Vitality 10").
+
 ![Untitled](https://user-images.githubusercontent.com/79167732/225706024-3ba71c06-6516-42cd-912c-31acdba100f1.png)
 
 2. Run the script.
